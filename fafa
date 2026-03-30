@@ -2,7 +2,7 @@
 --||                Animator6D Pro V4 (R6)             ||--
 --||  This shit is not mine ok??????                   ||--
 --||  Features: universal rig, local cache, safe play  ||--
---|| Ya sorry, I dont want to die cuz writing this shit on a shitty phone for 90 years, thanks GPT
+--|| 
 --\\====================================================//--
 getgenv().Animator6D_Anims = getgenv().Animator6D_Anims or {}
 if getgenv().Animator6DLoadedPro then return end
